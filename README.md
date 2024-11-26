@@ -5,8 +5,7 @@ sudo apt install libpcl-dev
 cd utils && mkdir build
 
 ## build ##
-cd build && cmake ..
-make
+cd build && cmake .. && make
 
 ## play ##
 ./generate_plane
