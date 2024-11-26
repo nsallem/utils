@@ -1,4 +1,4 @@
-## install PCL:##
+## install PCL ##
 sudo apt install libpcl-dev
 
 ## clone and create build dir ##
